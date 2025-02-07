@@ -32,10 +32,10 @@ public class Exc_6 {
 		System.out.println("--------------------------------------------------------------------------------------");
 		System.out.println("");
 		
-		System.out.println("Entre com o valor de A: ");
+		System.out.print("Entre com o valor de A: ");
 		A = scanner.nextFloat();
 		
-		System.out.println("Entre com o valor de B: ");
+		System.out.print("Entre com o valor de B: ");
 		B = scanner.nextFloat();
 		
 		System.out.println("Entre com o valor de C: ");

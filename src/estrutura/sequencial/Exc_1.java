@@ -23,7 +23,7 @@ public class Exc_1 {
 		System.out.println("--------------------------------------------------------------------------------------");
 		System.out.println("");
 		
-		System.out.println("Entre com o primeiro valor: ");
+		System.out.print("Entre com o primeiro valor: ");
 		valor1 = scanner.nextInt();
 		
 		System.out.println("Entre com o segundo valor: ");

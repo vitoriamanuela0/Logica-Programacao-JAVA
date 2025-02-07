@@ -27,20 +27,20 @@ public class Exc_4 {
 		System.out.println("--------------------------------------------------------------------------------------");
 		System.out.println("");
 		
-		System.out.println("Entre com o numero do funcionário: ");
+		System.out.print("Entre com o numero do funcionário: ");
 		numFuncionario = scanner.nextInt();
 		
-		System.out.println("Entre com as horas trabalhadas: ");
+		System.out.print("Entre com as horas trabalhadas: ");
 		horasTrabalhadas = scanner.nextInt();
 		
-		System.out.println("Entre com o valor da hora trabalhada: ");
+		System.out.print("Entre com o valor da hora trabalhada: ");
 		valorHora = scanner.nextFloat();
 		
 		scanner.close();
 		
 		salario = horasTrabalhadas * valorHora;
 		
-		System.out.printf("O saláio do funcionário de número %d é U$ %.2f.", numFuncionario, salario);
+		System.out.printf("O salário do funcionário de número %d é U$ %.2f.", numFuncionario, salario);
 	}
 
 }
