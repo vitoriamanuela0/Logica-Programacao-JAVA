@@ -25,11 +25,11 @@ public class Exc_3 {
 		System.out.println("--------------------------------------------------------------------------------------");
 		System.out.println("");
 		
-		System.out.println("Entre com o valor de A: ");
+		System.out.print("Entre com o valor de A: ");
 		A = scanner.nextInt();
-		System.out.println("Entre com o valor de B: ");
+		System.out.print("Entre com o valor de B: ");
 		B = scanner.nextInt();
-		System.out.println("Entre com o valor de C: ");
+		System.out.print("Entre com o valor de C: ");
 		C = scanner.nextInt();
 		System.out.println("Entre com o valor de D: ");
 		D = scanner.nextInt();

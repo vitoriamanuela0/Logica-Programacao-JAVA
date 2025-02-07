@@ -28,23 +28,19 @@ public class Exc_5 {
 		System.out.println("--------------------------------------------------------------------------------------");
 		System.out.println("");
 		
-		System.out.println("Entre com o código da peça 1: ");
+		System.out.print("Entre com o código da peça 1: ");
 		codigo1 = scanner.nextInt();
-		
-		System.out.println("Entre com o número de peças 1: ");
+		System.out.print("Entre com o número de peças 1: ");
 		numPecas1 = scanner.nextInt();
-		
-		System.out.println("Entre com o valor unitário da peça 1: ");
+		System.out.print("Entre com o valor unitário da peça 1: ");
 		valorUniPeca1 = scanner.nextFloat();
 		
 		scanner.nextLine();
 		
-		System.out.println("Entre com o código da peça 2: ");
+		System.out.print("Entre com o código da peça 2: ");
 		codigo2 = scanner.nextInt();
-		
-		System.out.println("Entre com o número de peças 2: ");
+		System.out.print("Entre com o número de peças 2: ");
 		numPecas2 = scanner.nextInt();
-		
 		System.out.println("Entre com o valor unitário da peça 2: ");
 		valorUniPeca2 = scanner.nextFloat();
 		
